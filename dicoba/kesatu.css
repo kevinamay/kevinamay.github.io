@@ -1,0 +1,23 @@
+body {
+  min-height: 2000px;
+}
+/* class memakai titik untuk style css */
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: whitesmoke;
+}
+.footer {
+  padding: 0 0 6rem 0;
+}
+/* id pakai tanpa pagar untuk style css */
+#project {
+  background-color: whitesmoke;
+}
+section {
+  padding-top: 5rem;
+}
+
+.text-center {
+  text-align: center !important;
+  margin: 2rem 0 0 0;
+}
